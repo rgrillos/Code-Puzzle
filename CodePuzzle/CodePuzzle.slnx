@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CodePuzzle/CodePuzzle.csproj" />
+  <Project Path="CodePuzzleAutomation/CodePuzzleAutomation.csproj" />
+</Solution>
